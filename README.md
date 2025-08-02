@@ -11,6 +11,7 @@ The objective of this project is to explore and answer the following:
 - What environmental or situational factors increase accident severity?
 - Are there certain vehicle types or areas with more fatal crashes?
 - Which conditions lead to higher numbers of casualties?
+- 
 ## 🎯 Goals
 - Identify key contributors to severe accidents
 - Explore the impact of the environment (weather, light, road)
